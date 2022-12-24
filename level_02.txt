@@ -1,0 +1,27 @@
+wwwwwwwwwwwwwwwwwww
+wPoooooooooooooooPw
+wwwwowwwowowwwowwww
+wowwowwwowowwwowwow
+wooooooooooooooooow
+oowwowowowwwowowwoo
+woooowooowooowoooow
+wwwwowwwowowwwowwww
+___wow_______wow___
+ww_wow_wwGww_wow_ww
+ooooo__wJJJw__ooooo
+ww_wow_wwwww_wow_ww
+___wo_ooooooo_ow___
+wwwwowowwwwwowowwww
+woooooooowoooooooow
+wowwowwwowowwwowwow
+woowooooooooooowoow
+wwowowowwwwwowowoww
+woooowooowooowoooow
+wowwowowowowwwowwow
+wPoooooooooooooooPw
+wwwwwwwwwwwwwwwwwww
+$ G 9 13 Blinky 0 1
+$ G 8 11 Pinky 1 2
+$ G 9 11 Inky 2 3
+$ G 10 11 Clyde 3 4
+$ P 9 5 Pacman 0 0
