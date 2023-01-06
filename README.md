@@ -21,7 +21,7 @@ hw3.cpp - this file runs the binary search tree, displaying what is in the
 add.cpp - this file includes additional tests to ensure functionality
 
                  ---- COMPILE / RUN INSTRUCTIONS ----
-By typing make hw3 then doing ./hw3, the code will run.
+By typing make tree then doing ./tree, the code will run.
 
                 ---- DATA STRUCTURES / ALGORITHMS ----
 Data Structures used: The data structure used in hw3 is a binary search tree.
