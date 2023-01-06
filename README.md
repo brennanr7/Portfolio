@@ -34,18 +34,10 @@ Data Structures used: The data structure used in hw3 is a binary search tree.
 
 
                            ---- TESTING ----
-I used two main testing methods to ensure functionality of the program. First,
-I stated by using hw3.cpp to go about implementing each function while
-ensuring that the function worked. In the order which I implemented these
-functions in BinarySearchTree.cpp, was in the order of which main was
-structured. Problems that I ran into while testing consisted of creating two
+I used two main testing methods to ensure functionality of the program.
+Problems that I ran into while testing consisted of creating two
 main functions, insert and remove. The bugs I ran into when implementing these
 functions related to conceptual errors. These errors were easily resolved by
 drawing out and understand what was going on in the tree at a certain time.
 Furthermore, I ran into memory erros in my insert function. This was resolved
-by initialize the parents left and right node. Once I completed hw3, I need
-to diff against the demo program. After I was passed the demo program,
-I then tested even more with the aditional file included: add.cpp. This
-file was structued the same way as hw3.cpp but with additional testing
-instances. When I tested this file, I would copy and past the contents
-of the file into hw3.cpp and run the program to ensure functionality.
+by initialize the parents left and right node. 
