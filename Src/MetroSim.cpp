@@ -4,9 +4,9 @@
  * by Brennan Rivera, 02/22/2021
  * Stores passengers as they board the train, station, as well as running the
  * the simulation. Passengers are stored in a vector of queues, and a vector
- * of structs. This file communicates with MetroSim.h and PassengerQueue.h
- * order.
+ * of structs. This file uses MetroSim.h and PassengerQueue.h
  */
+
 #include "MetroSim.h"
 #include "PassengerQueue.h"
 
