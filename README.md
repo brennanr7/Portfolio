@@ -1,5 +1,11 @@
 * This project handles a running train to accomodate passengers arriving/departing a metro. I Learned how to design and modularize code and work with documented libraries.
 
+Compile/run:
+     - Compile using
+            make MetroSim
+     - run executable with
+            ./MetroSim stationsFile passFile [commands]
+
 * Files:
 
 main.cpp:
