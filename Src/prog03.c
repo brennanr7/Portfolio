@@ -3,6 +3,9 @@
 #include <stdlib.h>
 #include <libgen.h>
 
+//AHHHHH READ THIS: I know this is not proper doxygen syntax, checkout this link that will help convert it if
+//                  u wanna change it: https://www.doxygen.nl/manual/faq.html
+
 //Struct
 typedef struct ImageStorage
 {
@@ -61,18 +64,9 @@ int main(int argc, char* argv[])
     {
         matches(pictureStorage, pattern, row, column, argc, i);
     }
-    // for(int i = 0; i < argc - 2; i++)
-    // {
-    //     printNames(pictureStorage, i);
-    // }
     for(int i = 0; i < argc - 2; i++)
     {
         printMatches(pictureStorage, pattern, row, column, i);
-        //freeMemory(pictureStorage, pattern, row, column, i);
-    }
-    for(int i = 0; i < argc - 2; i++)
-    {
-        //printNoMatchNames(pictureStorage, i);
     }
     for(int i = 0; i < argc - 2; i++)
     {
