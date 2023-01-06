@@ -1,13 +1,11 @@
 /*
   * PassengerQueue.cpp
   *
-  * COMP 15 homework 2
   * by Brennan Rivera, 02/22/2021
   *
-  * Stores passengers as they arrive at the station. Stored in order in LIFO
+  * Stores passengers as they arrive at the station. Stored in LIFO
   * order.
   *
-  * Note: this implementatoin uses...
 */
 
 #include "PassengerQueue.h"
