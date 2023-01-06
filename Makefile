@@ -9,11 +9,6 @@ CXXFLAGS = -g3 -Wall -Wextra -Wpedantic -Wshadow
 LDFLAGS  = -g3
 
 
-##
-## Put your variables and rules here.  You can use previous Makefiles
-## as examples, and you can refer to the "make" documentation on the
-## course Reference page.
-##  --- Delete this comment and put appropriate comments in ---
 CalcYouLater: DatumStack.o Datum.o RPNCalc.o main.o
 	$(CXX) $(CXXFLAGS) -o CalcYouLater main.o DatumStack.o RPNCalc.o Datum.o
 
@@ -37,8 +32,9 @@ RPNCalc.o: RPNCalc.cpp RPNCalc.h DatumStack.h
 
 main.o: main.cpp Datum.h RPNCalc.h DatumStack.h
 	$(CXX) $(CXXFLAGS) -c -o main.o main.cpp
+	
 ##
-## Here is a rule for compiling .cyl files for use in your testing
+## Here is a rule for compiling .cyl files for testing
 ##
 %.cylc:  %.cyl
 	./cylc $^
