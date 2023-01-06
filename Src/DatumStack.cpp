@@ -1,7 +1,6 @@
 /*
   * DatumStack
   *
-  * COMP 15 project 1
   * by Brennan River, 03/06/2021
   *
   * An implementation of the DatumStack that uses a stack data structure for
