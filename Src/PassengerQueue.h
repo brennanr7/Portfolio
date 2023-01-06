@@ -1,7 +1,6 @@
 /*
   * PassengerQueue.h
   *
-  * COMP 15 homework 2
   * by Brennan River, 02/22/2021
   *
   * An implementation of the passanger queues interface. We store passengers
