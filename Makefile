@@ -6,7 +6,7 @@ CXX      = clang++
 CXXFLAGS = -g3 -Wall -Wextra -std=c++11
 
 
-tree: BinarySearchTree.o
+tree: tree.o BinarySearchTree.o
 	${CXX} -o $@ $^
 
 %.o: %.cpp $(shell echo *.h)
