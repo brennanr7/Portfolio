@@ -40,7 +40,7 @@ ensuring that the function worked. In the order which I implemented these
 functions in BinarySearchTree.cpp, was in the order of which main was
 structured. Problems that I ran into while testing consisted of creating two
 main functions, insert and remove. The bugs I ran into when implementing these
-functions related to syntax errors. These errors were easily resolved by
+functions related to conceptual errors. These errors were easily resolved by
 drawing out and understand what was going on in the tree at a certain time.
 Furthermore, I ran into memory erros in my insert function. This was resolved
 by initialize the parents left and right node. Once I completed hw3, I need
