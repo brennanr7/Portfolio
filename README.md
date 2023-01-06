@@ -4,6 +4,11 @@ This project's purpose is to implement a Reverse Polish Notation calculator. In
 order to to build the calculator we build a stack class that stores datum
 elements.
 
+* Compile/run:
+
+         use "make CalcYouLater" to make the program and "./CalcYouLater" to
+         use the program.
+
 * Files:
 
                DatumStack.cpp: The back end implementation of a stack data
