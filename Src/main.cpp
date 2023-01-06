@@ -1,7 +1,6 @@
 /*
   * main
   *
-  * COMP 15 project 1
   * by Brennan River, 03/06/2021
   *
   * An implementation of main that allows the user to run the program.
