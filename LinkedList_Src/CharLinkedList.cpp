@@ -1,10 +1,6 @@
 /*
  * CharLinkedList.cpp
  *
- * COMP 15 homework 1
- * by C.R. Calabrese, January 2021
- * edited by [Brennan Rivera], [2/11/21]
- *
  * Stores characters in a certain order. It imitates some functions of the
  * C++ string.
  *
