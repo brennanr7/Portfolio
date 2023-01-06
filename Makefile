@@ -1,5 +1,5 @@
 ###
-### Makefile for CalcYouLater Project
+### Makefile for CalcYouLater
 ### CalcYouLater is an RPN calculator
 ###
 ### Author:  Brennan Rivera
