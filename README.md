@@ -15,11 +15,6 @@ BinarySearchTree.cpp - The implementation of the BinarySearchTree.h file. This
 
 Makefile - allows each of the programs to link together.
 
-hw3.cpp - this file runs the binary search tree, displaying what is in the
-          tree to the terminal.
-
-add.cpp - this file includes additional tests to ensure functionality
-
                  ---- COMPILE / RUN INSTRUCTIONS ----
 By typing make tree then doing ./tree, the code will run.
 
