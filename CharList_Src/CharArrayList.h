@@ -1,8 +1,6 @@
 /*
  * CharArrayList.h
  *
- * COMP 15 homework 1
- * by C.R. Calabrese, January 2021
  * edited by [Brennan Rivera], [2/11/21]
  * One implementation of the CharArrayList interface. Stores characters,
  * preserving their order and imitating some functionalities of the C++
