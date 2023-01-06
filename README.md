@@ -1,4 +1,4 @@
-* This program stores characters in a certain order. It imitates some functions of the C++ string.
+* This program stores characters in a certain order. It imitates some functions of the C++ string demonstrated in both a dynamic array and linked list.
 
 
 
