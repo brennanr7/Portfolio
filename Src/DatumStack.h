@@ -1,7 +1,6 @@
 /*
   * DatumStack
   *
-  * COMP 15 project 1
   * by Brennan River, 03/06/2021
   *
   * An interface of the DatumStack that is the front end of the stack
