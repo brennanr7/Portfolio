@@ -1,7 +1,6 @@
 /*
  * MetroSim.h
  *
- * COMP 15 homework 2
  * by Brennan Rivera, 02/22/2021
  * Stores passengers as they board the train and stations. This is the front
  * of MetroSim and interacts with both the passenger.h and PassengerQueue.h
