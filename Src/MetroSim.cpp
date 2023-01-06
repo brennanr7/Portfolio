@@ -1,7 +1,6 @@
 /*
  * MetroSim.cpp
  *
- * COMP 15 homework 2
  * by Brennan Rivera, 02/22/2021
  * Stores passengers as they board the train, station, as well as running the
  * the simulation. Passengers are stored in a vector of queues, and a vector
