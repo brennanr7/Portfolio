@@ -1,7 +1,6 @@
 /*
  * Passenger
  *
- * COMP 15 homework 2
  * by Brennan Rivera, 02/22/2021
  * Creates the passenger to be enqueued in a list of passengerquues
  */
