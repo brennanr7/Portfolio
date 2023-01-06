@@ -1,8 +1,6 @@
 /*
  * Passenger
  *
- * COMP 15 homework 2
- *
  * prints the passengers to the outputed data, communicates with Passenger.h
  */
 
