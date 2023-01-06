@@ -1,7 +1,6 @@
 /*
  * main.cpp
  *
- * COMP 15 homework 2
  * by Brennan Rivera, 02/22/2021
  * This file takes in arguments from the command line providing output files
  * as well as command files to run the program. Furthermore, main uses
