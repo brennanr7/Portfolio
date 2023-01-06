@@ -34,7 +34,7 @@ elements.
 
 * Data Structures:
 
-The data structure used I used was vectors and stacks. This is relevant in this
+The data structure used I used were vectors and stacks. This is relevant in this
 project because we need to store Datum elements in a container in LIFO order.
 The Last in First out order was implemented with by storing each element
 pushed back into the vector. Using a vector was optimal in this very way to
